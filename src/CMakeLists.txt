@@ -1,0 +1,12 @@
+﻿target_sources (SFMLExamples PRIVATE "main.cpp"
+                                      "FuncManager.cpp"
+                                      "BaseFunction.cpp"
+                                      "SinX.cpp"
+                                      "LnX.cpp"
+                                      "Polinom.cpp"
+                                      "ComplexFunc.cpp"
+                                      "LogN.cpp"
+                                      "Add.cpp"
+                                      "Mul.cpp"
+                                      "Compose.cpp"
+                                     )
